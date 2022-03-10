@@ -1,1 +1,1 @@
-# PrimeGenerator
+# Parallel Programming Compulsory Assignment
