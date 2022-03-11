@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Prime-Generator\bin\Debug\Prime-Generator.exe.config
+C:\Users\PC\Desktop\Prime-Generator\bin\Debug\Prime-Generator.exe
+C:\Users\PC\Desktop\Prime-Generator\bin\Debug\Prime-Generator.pdb
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime_Generator.Properties.Resources.resources
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.exe
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime-Generator.pdb
+C:\Users\PC\Desktop\Prime-Generator\obj\Debug\Prime_Generator.Form1.resources
